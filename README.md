@@ -51,7 +51,6 @@ Enter city name: Delhi
 Weather in Delhi: 34°C, Scattered clouds
 
 
-## 🤝 Contribution
 
 This is a beginner project for learning and sharing. Feel free to fork it, open issues, or suggest improvements!
 
